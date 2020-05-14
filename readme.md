@@ -5,7 +5,7 @@
             <li>lister les services necessaires pour la plateforme </li>
             <li>mise en place d'une application springboot pour exposer les services de la plateforme </li>
             <li>mise en place d'une frontale pour consommer les services </li>
-            <li>mise en place de base de donnée pour gérer les producteurs dans un docker</li>
+            <li>mise en place de base de donnée pour gérer les producteurs</li>
         </ul>
     </li>
 </ol>

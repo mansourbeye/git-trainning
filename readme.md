@@ -8,12 +8,10 @@
             <li>mise en place de base de donnée pour gérer les producteurs</li>
         </ul>
     </li>
-
     <li>Méthodologie
         <ul>
             <li>Agile scrum</li>
-    </li>
-    
+        </li>
     <li>Les outils dev et ops
         <ul>
             <li>java, spring, springboot, angular, postgres, nginx, maven, kafka</li>

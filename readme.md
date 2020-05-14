@@ -11,23 +11,23 @@
     <li>Méthodologie
         <ul>
             <li>Agile scrum</li>
-        </li>
+        </ul>
     <li>Les outils dev et ops
         <ul>
             <li>java, spring, springboot, angular, postgres, nginx, maven, kafka</li>
             <li>docker, docker-compose, docker-cli</li>
             <li>gitlab, git</li>
             <li>filebeat, elasticsearch, kibana</li>
-    </li>
-        <li>Environnements
+        </ul>
+    <li>Environnements
         <ul>
             <li>dev: windows, ubuntu</li>
             <li>Test: windows, ubuntu</li>
             <li>prod: windows, ubuntu</li>
-    </li>
+        </ul>
     <li>organisation du dépôt git et de branches
         <ul>
             <li>On ulise git flow pour l'organisation des branche</li>
             <li>on utilise un nommage spécifique pour les branche</li>
-        </li>
+        </ul>
 </ol>

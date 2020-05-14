@@ -8,4 +8,9 @@
             <li>mise en place de base de donnée pour gérer les producteurs</li>
         </ul>
     </li>
+    <li>organisation du dépôt git et de branches
+    <ul>
+    <li>On ulise git flow pour l'organisation des branche</li>
+    <li>on utilise un nommage spécifique pour les branche</li>
+    </li>
 </ol>

@@ -1,0 +1,5 @@
+1.scrum
+2.Devops fondation
+3.Docker
+4.Ansible
+5.git
